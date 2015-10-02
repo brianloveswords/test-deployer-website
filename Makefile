@@ -1,2 +1,2 @@
 release:
-	cp index.html /usr/share/nginx/html/index.html
+	cp ./* /usr/share/nginx/html/
